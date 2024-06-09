@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": true,
+  "nixEnvSelector.nixFile": "${workspaceRoot}/flake.nix",
+  "nix.enableLanguageServer": true,
+  "nix.serverPath": "nil",
+  "rust-analyzer.check.command": "clippy"
+}
